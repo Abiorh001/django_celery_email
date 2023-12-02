@@ -33,6 +33,7 @@ MANIFEST
 *.spec
 .env
 db.sqlite3
+venv
 
 # Installer logs
 pip-log.txt
